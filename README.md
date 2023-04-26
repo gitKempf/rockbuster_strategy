@@ -8,6 +8,8 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 The objective of the project was to answer business questions in order to drive the launch strategy of a new online rental service.
 
+### [Main presentation](https://github.com/gitKempf/rockbuster_strategy/blob/main/Rockbuster%20strategy.pdf)
+
 ### Data
 A relational database made up of 17 tables contatining data on film rentals, customers, actors, payments and more. [Full Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
